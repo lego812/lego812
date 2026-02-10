@@ -19,6 +19,7 @@ Java, Spring을 기반으로 백엔드 기능을 구현합니다.
 **기술과 사람** 모두에 호기심을 갖고,
 **구현과 협업**을 함께 고민하는 개발자로 성장하고 있습니다.
 
+
 ---
 
 ## 🧠 개발 철학
@@ -51,10 +52,3 @@ Java, Spring을 기반으로 백엔드 기능을 구현합니다.
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring AI-000000?style=flat-square"/>
-
----
-## 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lego812&layout=compact&theme=github_dark)](https://github.com/lego812)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lego812&show_icons=true&theme=github_dark)](https://github.com/lego812)
